@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d854a2d5f570115dc21dd595cd83c9736dd5815a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6bca78b36cdee5ebd1caadb90325c4319803ee6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8d2bbabd378d28fd765e3ea1f747ac7e8afd2734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_d9d83536f0cf89cbf288f7e444e876f7a9ee3cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_ffcb19f36796f79632be74b0dad6cae8367a11db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_5e4a5c68dbb145f15734d2d66a062a322344f962.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_a217e3e46996aff2249dc75799ff0f666fa6e029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_ffa7108f10d2e836093e1e4eadb362c3a775e7e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_8f1e4630a3a530fd2aa251c25751a342df9f9c01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_439dd0e7c8164901c6edf167a9696325c7fb8c77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9dad7c9ebc65db3806d06aad60a731c11453a6db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d3c9fc40eab7a5bf9ca036f330b9761c20aa22c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_0f523b1ffaa6c410eb4e893f143c2895602d1598.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_dd40e62c0f1d3929de0142e55ed577ceb6fdd861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_c208bc9a93bd5c33462326c71d5f88d5f7dae694.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_6dc9918234e770ddcd1f1f5d837aa51f50e74e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/lex/AndroidStudioProjects/StockHome/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_e7fe4f3c9b18aaf03917db6745b68f9f431c9172.jar" />
+    </item>
+
+</items>

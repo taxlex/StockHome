@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true"
+    android:background="?attr/colorButtonNormal">
+
+    <Button
+        android:text="Stock List"
+        android:layout_width="385dp"
+        android:layout_height="63dp"
+        android:id="@+id/toggle1"
+        android:backgroundTint="@android:color/holo_blue_light" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/inputText"
+        android:hint="Grocery List" />
+
+    <Button
+        android:text="Add Item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/addButton"
+        android:backgroundTint="@android:color/holo_blue_dark" />
+
+    <ListView
+
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/groceryList">
+
+        <!--<requestFocus/>-->
+    </ListView>
+
+    <include layout="@layout/content_main"
+        android:id="@+id/include"
+        android:layout_height="61dp" />
+
+</LinearLayout>
+
+
